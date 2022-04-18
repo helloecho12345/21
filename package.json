@@ -1,0 +1,20 @@
+{
+  "name": "21",
+  "version": "1.0.0",
+  "description": "",
+  "main": "21.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helloecho12345/21.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helloecho12345/21/issues"
+  },
+  "homepage": "https://github.com/helloecho12345/21#readme"
+}
